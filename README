@@ -1,0 +1,10 @@
+This is a collection of poems that are written in
+Python.  Some of them solve Project Euler problems,
+some of them are small games, some of them do other
+things, like finding prime numbers.
+
+I try always to relate the words of the code and the
+actions that the code executes, so there is confusion
+in the mixed layers of metaphors.  This is not an
+obfuscated code repository; not really.  In some ways,
+it is the opposite.
