@@ -7,8 +7,6 @@ while (
                         (pleas ** pleas) *
                             mercy **
                                 (len('ses') * len('se'))):
-    dont, look, now = dont + look, dont, now + look * ((look - please) % (
-                    please +
-                        please))
+    dont, look, now = dont + look, dont, now + look * ((look - please) % (pleas))
 
 print now
